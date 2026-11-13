@@ -1,4 +1,4 @@
-# OceanLook (SIH25040) - Flutter + Python
+# OceanLook  - Flutter + Python
 OceanLook enables natural plain-English exploration and analysis of ARGO ocean float data.
 
 ## Quick start
