@@ -1,0 +1,11 @@
+[
+ {
+  "ts": "2026-11-11T17:57:37+00:00",
+  "mode": "rules",
+  "model": "rules",
+  "n": 20,
+  "correct": 20,
+  "accuracy": 1.0,
+  "avg_ms": 1.0
+ }
+]

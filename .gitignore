@@ -1,0 +1,49 @@
+# Private environment files / keys
+.env
+*.env
+.env.*
+!.env.example
+
+# Excluded documentation (only README.md should be tracked)
+EXPLANATION.md
+NOTE.md
+REPORT.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# Local databases and raw downloads
+backend/data/raw/
+backend/data/*.db
+*.db
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
